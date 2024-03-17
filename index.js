@@ -1,0 +1,3 @@
+function AC(){
+    display.value =''
+};
